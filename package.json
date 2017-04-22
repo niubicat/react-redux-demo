@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/starkwang/react-redux-es6-quickstart.git"
+    "url": "git"
   },
-  "author": "starkwang",
+  "author": "git",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/starkwang/react-redux-es6-quickstart/issues"
+    "url": "git"
   },
-  "homepage": "https://github.com/starkwang/react-redux-es6-quickstart#readme"
+  "homepage": "git"
 }
